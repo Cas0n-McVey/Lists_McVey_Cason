@@ -1,0 +1,14 @@
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\bin\Debug\net8.0\Lists_McVey_Cason.exe
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\bin\Debug\net8.0\Lists_McVey_Cason.deps.json
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\bin\Debug\net8.0\Lists_McVey_Cason.runtimeconfig.json
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\bin\Debug\net8.0\Lists_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\bin\Debug\net8.0\Lists_McVey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.AssemblyInfoInputs.cache
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.AssemblyInfo.cs
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.csproj.CoreCompileInputs.cache
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\refint\Lists_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\Lists_McVey_Cason.genruntimeconfig.cache
+C:\Users\CASONMCVEY\source\repos\Lists_McVey_Cason\Lists_McVey_Cason\obj\Debug\net8.0\ref\Lists_McVey_Cason.dll
